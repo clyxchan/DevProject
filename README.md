@@ -1,4 +1,3 @@
-%%writefile README.md
 # German Learning Telegram Bot
 
 ## Overview
