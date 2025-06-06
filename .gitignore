@@ -1,0 +1,27 @@
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Editors
+.DS_Store # macOS
+*.sublime-project
+*.sublime-workspace
+
+# IDEs
+.idea/ # PyCharm, IntelliJ
+.vscode/ # VS Code
+
+# Jupyter Notebook
+.ipynb_checkpoints
