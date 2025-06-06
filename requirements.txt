@@ -1,0 +1,4 @@
+!pip install omegaconf==2.3.0
+!pip install pyTelegramBotAPI==4.13.0
+!pip install openai
+!pip install pydub==0.25.1
