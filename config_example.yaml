@@ -1,0 +1,7 @@
+TELEGRAM_TOKEN = YOUR_TELEGRAM_TOKEN
+OPENAI_API_KEY = YOUR_OPENAI_API_KEY
+USER_WHITELIST = ["chancamly"]
+CHAT_CONFIG = {"max_history": 20}
+CHAT_SYSTEM_PROMPTS = {
+    "chancamly": "You are a cheerful and intelligent assistant in learning German. You are currently chatting with a girl named Kam Li, 18 years old.",
+}
